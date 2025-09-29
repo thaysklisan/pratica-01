@@ -1,0 +1,401 @@
+site_id,data,bioma,especie,abundancia,municipio,uf,lat,lon,area_ha,tipo_habitat
+S014,2024-03-08,Mata Atlantica,Boana faber,10,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S003,2024-11-29,Mata Atlantica,Boana faber,2,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S008,2024-05-31,Mata Atlantica,Rhinella crucifer,8,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S016,2024-05-17,Mata Atlantica,Chaunus ictericus,4,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S012,2024-08-23,Mata Atlantica,Rhinella crucifer,2,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S014,2024-04-19,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S003,2024-12-06,Mata Atlantica,Chaunus ictericus,6,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S014,2024-04-19,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S007,2024-04-26,Mata Atlantica,Leptodactylus latrans,2,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S003,2025-02-21,Mata Atlantica,Boana faber,8,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S015,2024-10-11,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S005,2024-03-15,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S008,2024-11-29,Mata Atlantica,Rhinella crucifer,6,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S019,2024-03-08,Mata Atlantica,Leptodactylus latrans,0,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2024-03-01,Mata Atlantica,Chaunus ictericus,7,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S018,2024-04-26,Mata Atlantica,Leptodactylus latrans,6,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S010,2024-04-12,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S012,2024-05-24,Mata Atlantica,Leptodactylus latrans,0,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S002,2024-09-13,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S010,2024-07-12,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S012,2024-05-31,Mata Atlantica,Boana faber,1,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S020,2024-06-14,Mata Atlantica,Boana faber,6,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S014,2024-04-12,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S017,2024-11-01,Mata Atlantica,Chaunus ictericus,3,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S014,2025-01-03,Mata Atlantica,Chaunus ictericus,2,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S003,2024-05-17,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S008,2024-08-16,Mata Atlantica,Chaunus ictericus,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S014,2024-08-30,Mata Atlantica,Chaunus ictericus,1,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S019,2024-05-24,Mata Atlantica,Boana faber,7,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S015,2024-07-12,Mata Atlantica,Chaunus ictericus,9,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S017,2024-05-03,Mata Atlantica,Chaunus ictericus,4,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S011,2024-09-20,Mata Atlantica,Leptodactylus latrans,5,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S007,2024-12-06,Mata Atlantica,Boana faber,3,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S015,2024-05-17,Mata Atlantica,Rhinella crucifer,1,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S006,2024-04-19,Mata Atlantica,Rhinella crucifer,0,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S014,2024-04-12,Mata Atlantica,Leptodactylus latrans,8,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S007,2024-06-07,Mata Atlantica,Boana faber,4,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S010,2024-07-05,Mata Atlantica,Rhinella crucifer,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S005,2025-01-31,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S006,2024-12-20,Mata Atlantica,Chaunus ictericus,0,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S016,2024-11-22,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S011,2025-02-14,Mata Atlantica,Boana faber,0,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S004,2024-08-02,Mata Atlantica,Rhinella crucifer,1,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S012,2024-10-25,Mata Atlantica,Boana faber,2,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S014,2024-04-05,Mata Atlantica,Boana faber,1,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S019,2024-04-12,Mata Atlantica,Boana faber,5,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S007,2024-03-22,Mata Atlantica,Boana faber,1,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S009,2024-05-03,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S007,2024-06-21,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S002,2025-01-24,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S016,2024-04-19,Mata Atlantica,Boana faber,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S013,2025-02-28,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S019,2024-03-15,Mata Atlantica,Boana faber,6,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S020,2024-12-27,Mata Atlantica,Chaunus ictericus,6,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S015,2025-02-28,Mata Atlantica,Leptodactylus latrans,5,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S007,2025-01-10,Mata Atlantica,Boana faber,1,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S004,2024-11-08,Mata Atlantica,Rhinella crucifer,5,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S001,2024-05-31,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S008,2024-09-06,Mata Atlantica,Boana faber,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S020,2024-04-05,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S016,2024-04-26,Mata Atlantica,Leptodactylus latrans,0,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S011,2024-10-11,Mata Atlantica,Boana faber,3,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S016,2025-02-21,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S020,2025-01-10,Mata Atlantica,Boana faber,7,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S008,2024-07-05,Mata Atlantica,Rhinella crucifer,4,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S003,2024-11-08,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S004,2024-10-18,Mata Atlantica,Boana faber,5,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S020,2024-03-01,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S012,2024-09-06,Mata Atlantica,Chaunus ictericus,5,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S017,2025-02-21,Mata Atlantica,Rhinella crucifer,0,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S010,2024-09-20,Mata Atlantica,Chaunus ictericus,1,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S020,2024-03-22,Mata Atlantica,Chaunus ictericus,7,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S011,2024-08-23,Mata Atlantica,Rhinella crucifer,3,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S008,2024-05-10,Mata Atlantica,Leptodactylus latrans,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S014,2024-03-29,Mata Atlantica,Chaunus ictericus,3,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S013,2024-11-01,Mata Atlantica,Boana faber,0,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S002,2024-07-05,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S011,2024-10-25,Mata Atlantica,Chaunus ictericus,1,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S013,2024-10-11,Mata Atlantica,Boana faber,7,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S014,2024-11-22,Mata Atlantica,Boana faber,6,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S006,2024-03-29,Mata Atlantica,Leptodactylus latrans,9,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S008,2024-08-02,Mata Atlantica,Boana faber,1,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S012,2024-12-06,Mata Atlantica,Rhinella crucifer,3,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S004,2024-08-16,Mata Atlantica,Boana faber,4,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S013,2025-01-31,Mata Atlantica,Leptodactylus latrans,2,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S014,2024-07-19,Mata Atlantica,Boana faber,8,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S016,2024-03-29,Mata Atlantica,Rhinella crucifer,7,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S001,2024-05-17,Mata Atlantica,Rhinella crucifer,3,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S008,2024-03-08,Mata Atlantica,Rhinella crucifer,3,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S008,2024-06-28,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S010,2024-03-22,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S008,2024-12-13,Mata Atlantica,Chaunus ictericus,3,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S018,2025-01-17,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S009,2024-08-02,Mata Atlantica,Leptodactylus latrans,0,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S007,2024-04-19,Mata Atlantica,Boana faber,10,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S007,2024-03-01,Mata Atlantica,Rhinella crucifer,6,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S010,2024-05-10,Mata Atlantica,Leptodactylus latrans,6,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S011,2024-11-08,Mata Atlantica,Leptodactylus latrans,4,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S001,2024-05-10,Mata Atlantica,Boana faber,3,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S019,2024-06-07,Mata Atlantica,Rhinella crucifer,7,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2024-06-07,Mata Atlantica,Leptodactylus latrans,0,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S013,2024-12-13,Mata Atlantica,Chaunus ictericus,0,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S011,2024-06-07,Mata Atlantica,Boana faber,8,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S011,2024-06-07,Mata Atlantica,Boana faber,3,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S020,2025-02-21,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S007,2024-12-27,Mata Atlantica,Chaunus ictericus,3,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S020,2024-12-06,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S009,2024-08-16,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S009,2024-11-01,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S005,2024-03-15,Mata Atlantica,Rhinella crucifer,9,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S014,2024-04-12,Mata Atlantica,Boana faber,3,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S014,2024-03-22,Mata Atlantica,Leptodactylus latrans,9,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S006,2024-11-29,Mata Atlantica,Leptodactylus latrans,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S001,2025-02-28,Mata Atlantica,Boana faber,1,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S010,2024-11-08,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S017,2024-08-09,Mata Atlantica,Chaunus ictericus,2,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S017,2024-11-15,Mata Atlantica,Leptodactylus latrans,9,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S007,2024-03-22,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S009,2024-03-15,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S020,2024-05-10,Mata Atlantica,Boana faber,2,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S006,2024-05-03,Mata Atlantica,Boana faber,1,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S018,2024-09-13,Mata Atlantica,Chaunus ictericus,5,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S017,2024-08-02,Mata Atlantica,Chaunus ictericus,3,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S005,2024-03-29,Mata Atlantica,Leptodactylus latrans,5,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S020,2024-08-09,Mata Atlantica,Boana faber,4,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S003,2024-10-04,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S014,2024-08-16,Mata Atlantica,Rhinella crucifer,5,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S001,2024-05-10,Mata Atlantica,Leptodactylus latrans,0,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S002,2024-05-03,Mata Atlantica,Leptodactylus latrans,5,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S004,2024-06-07,Mata Atlantica,Rhinella crucifer,5,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S010,2025-02-14,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S001,2024-09-27,Mata Atlantica,Boana faber,2,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S005,2024-05-03,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S008,2025-01-03,Mata Atlantica,Chaunus ictericus,4,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S013,2024-08-09,Mata Atlantica,Leptodactylus latrans,6,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S018,2024-10-25,Mata Atlantica,Boana faber,6,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S010,2025-02-07,Mata Atlantica,Boana faber,5,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S006,2024-05-03,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S007,2024-04-19,Mata Atlantica,Chaunus ictericus,3,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S009,2024-12-27,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S016,2024-12-13,Mata Atlantica,Rhinella crucifer,3,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S017,2024-10-04,Mata Atlantica,Leptodactylus latrans,6,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S013,2024-11-22,Mata Atlantica,Rhinella crucifer,5,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S008,2024-04-12,Mata Atlantica,Rhinella crucifer,6,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S007,2024-11-15,Mata Atlantica,Rhinella crucifer,4,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S020,2024-06-21,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S018,2024-07-12,Mata Atlantica,Boana faber,1,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S017,2024-10-11,Mata Atlantica,Rhinella crucifer,4,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S001,2024-11-08,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S002,2024-05-03,Mata Atlantica,Leptodactylus latrans,7,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S017,2025-01-03,Mata Atlantica,Leptodactylus latrans,2,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S002,2024-05-03,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S013,2024-03-08,Mata Atlantica,Rhinella crucifer,6,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S017,2024-06-07,Mata Atlantica,Chaunus ictericus,4,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S003,2024-08-02,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S018,2025-01-17,Mata Atlantica,Chaunus ictericus,6,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S002,2024-11-29,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S005,2024-10-25,Mata Atlantica,Leptodactylus latrans,5,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S012,2024-03-08,Mata Atlantica,Boana faber,7,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S013,2024-04-05,Mata Atlantica,Boana faber,5,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S010,2025-01-10,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S006,2025-01-17,Mata Atlantica,Boana faber,4,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S010,2025-02-14,Mata Atlantica,Rhinella crucifer,1,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S010,2024-04-26,Mata Atlantica,Leptodactylus latrans,3,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S006,2024-08-02,Mata Atlantica,Chaunus ictericus,3,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S016,2024-08-16,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S016,2024-06-07,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S003,2024-07-26,Mata Atlantica,Rhinella crucifer,5,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S004,2025-01-24,Mata Atlantica,Chaunus ictericus,7,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S003,2024-04-19,Mata Atlantica,Rhinella crucifer,3,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S003,2024-09-13,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S016,2024-12-06,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S002,2024-07-19,Mata Atlantica,Boana faber,3,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S015,2025-01-24,Mata Atlantica,Boana faber,6,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S003,2024-04-26,Mata Atlantica,Boana faber,8,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S009,2024-10-18,Mata Atlantica,Rhinella crucifer,6,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S007,2024-12-06,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S009,2024-12-20,Mata Atlantica,Boana faber,5,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S004,2024-05-10,Mata Atlantica,Rhinella crucifer,6,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S002,2024-03-22,Mata Atlantica,Boana faber,0,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S012,2024-04-12,Mata Atlantica,Boana faber,0,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S009,2025-02-07,Mata Atlantica,Chaunus ictericus,4,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S011,2024-05-10,Mata Atlantica,Boana faber,5,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S007,2024-10-11,Mata Atlantica,Rhinella crucifer,3,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S013,2024-05-10,Mata Atlantica,Leptodactylus latrans,4,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S005,2024-11-15,Mata Atlantica,Rhinella crucifer,3,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S011,2024-07-19,Mata Atlantica,Chaunus ictericus,6,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S001,2024-05-03,Mata Atlantica,Leptodactylus latrans,3,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S019,2025-02-07,Mata Atlantica,Leptodactylus latrans,3,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S012,2024-03-15,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S002,2024-10-25,Mata Atlantica,Chaunus ictericus,0,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S017,2024-10-18,Mata Atlantica,Rhinella crucifer,1,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S012,2024-11-29,Mata Atlantica,Leptodactylus latrans,0,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S003,2024-09-06,Mata Atlantica,Boana faber,3,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S018,2024-05-24,Mata Atlantica,Rhinella crucifer,3,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S015,2024-04-19,Mata Atlantica,Chaunus ictericus,1,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S003,2024-03-08,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S019,2024-04-05,Mata Atlantica,Boana faber,2,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S018,2024-08-02,Mata Atlantica,Boana faber,8,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S017,2024-06-21,Mata Atlantica,Leptodactylus latrans,5,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S006,2024-10-04,Mata Atlantica,Leptodactylus latrans,0,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S010,2024-05-31,Mata Atlantica,Leptodactylus latrans,5,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S008,2024-04-12,Mata Atlantica,Chaunus ictericus,1,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S010,2024-05-24,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S013,2024-04-19,Mata Atlantica,Rhinella crucifer,1,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S020,2024-11-15,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S006,2024-05-10,Mata Atlantica,Leptodactylus latrans,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S020,2024-12-13,Mata Atlantica,Chaunus ictericus,2,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S020,2024-06-21,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S009,2024-04-12,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S016,2024-12-27,Mata Atlantica,Rhinella crucifer,0,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S008,2024-07-05,Mata Atlantica,Boana faber,8,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S007,2025-01-31,Mata Atlantica,Leptodactylus latrans,4,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S010,2024-11-29,Mata Atlantica,Rhinella crucifer,1,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S017,2024-06-07,Mata Atlantica,Leptodactylus latrans,4,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S018,2025-01-10,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S008,2024-05-31,Mata Atlantica,Chaunus ictericus,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S019,2024-08-23,Mata Atlantica,Chaunus ictericus,12,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2024-08-30,Mata Atlantica,Chaunus ictericus,2,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S011,2024-06-21,Mata Atlantica,Boana faber,12,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S017,2024-10-11,Mata Atlantica,Boana faber,0,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S012,2025-02-07,Mata Atlantica,Leptodactylus latrans,6,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S002,2024-06-28,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S019,2024-07-12,Mata Atlantica,Boana faber,4,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S013,2024-08-30,Mata Atlantica,Chaunus ictericus,7,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S013,2024-12-13,Mata Atlantica,Rhinella crucifer,5,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S019,2024-05-03,Mata Atlantica,Rhinella crucifer,0,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2025-02-28,Mata Atlantica,Rhinella crucifer,0,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S016,2024-04-26,Mata Atlantica,Chaunus ictericus,2,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S005,2024-09-27,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S004,2024-07-05,Mata Atlantica,Boana faber,4,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S018,2025-02-07,Mata Atlantica,Chaunus ictericus,3,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S001,2024-06-28,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S016,2024-12-27,Mata Atlantica,Chaunus ictericus,7,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S017,2024-12-27,Mata Atlantica,Boana faber,4,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S012,2024-09-06,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S002,2024-07-19,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S018,2024-09-13,Mata Atlantica,Rhinella crucifer,0,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S012,2024-11-01,Mata Atlantica,Boana faber,10,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S015,2024-07-12,Mata Atlantica,Rhinella crucifer,8,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S019,2024-08-02,Mata Atlantica,Rhinella crucifer,5,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S006,2024-12-13,Mata Atlantica,Rhinella crucifer,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S016,2024-03-29,Mata Atlantica,Chaunus ictericus,7,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S015,2024-03-08,Mata Atlantica,Boana faber,1,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S019,2024-06-28,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S003,2024-05-17,Mata Atlantica,Boana faber,9,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S014,2024-05-24,Mata Atlantica,Chaunus ictericus,2,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S001,2024-12-20,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S001,2025-02-14,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S016,2024-11-15,Mata Atlantica,Leptodactylus latrans,9,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S011,2024-06-28,Mata Atlantica,Rhinella crucifer,1,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S004,2024-05-03,Mata Atlantica,Rhinella crucifer,4,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S012,2024-04-26,Mata Atlantica,Chaunus ictericus,1,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S013,2024-10-25,Mata Atlantica,Boana faber,3,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S010,2024-09-13,Mata Atlantica,Chaunus ictericus,0,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S010,2024-07-26,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S007,2024-07-05,Mata Atlantica,Chaunus ictericus,8,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S018,2024-04-19,Mata Atlantica,Leptodactylus latrans,5,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S017,2025-01-03,Mata Atlantica,Rhinella crucifer,2,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S020,2024-10-11,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S009,2024-03-08,Mata Atlantica,Boana faber,3,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S011,2024-12-20,Mata Atlantica,Boana faber,0,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S012,2025-01-24,Mata Atlantica,Boana faber,8,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S008,2024-03-29,Mata Atlantica,Rhinella crucifer,3,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S018,2024-07-19,Mata Atlantica,Rhinella crucifer,5,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S005,2024-09-27,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S018,2024-11-01,Mata Atlantica,Leptodactylus latrans,1,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S006,2024-08-30,Mata Atlantica,Boana faber,1,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S010,2024-08-02,Mata Atlantica,Rhinella crucifer,3,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S009,2024-03-15,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S011,2024-06-07,Mata Atlantica,Chaunus ictericus,2,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S006,2024-12-13,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S012,2024-11-22,Mata Atlantica,Rhinella crucifer,4,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S019,2024-04-12,Mata Atlantica,Chaunus ictericus,0,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S004,2024-10-18,Mata Atlantica,Chaunus ictericus,6,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S003,2024-09-27,Mata Atlantica,Leptodactylus latrans,6,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S014,2024-06-28,Mata Atlantica,Boana faber,4,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S008,2024-06-28,Mata Atlantica,Rhinella crucifer,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S006,2024-10-25,Mata Atlantica,Boana faber,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S004,2024-11-29,Mata Atlantica,Chaunus ictericus,0,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S010,2025-01-10,Mata Atlantica,Leptodactylus latrans,2,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S016,2024-04-26,Mata Atlantica,Chaunus ictericus,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S016,2024-06-07,Mata Atlantica,Rhinella crucifer,0,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S020,2024-06-21,Mata Atlantica,Leptodactylus latrans,0,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S010,2024-04-12,Mata Atlantica,Boana faber,3,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S006,2024-09-20,Mata Atlantica,Boana faber,2,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S019,2024-04-19,Mata Atlantica,Boana faber,1,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S004,2024-03-01,Mata Atlantica,Leptodactylus latrans,1,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S009,2024-04-26,Mata Atlantica,Chaunus ictericus,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S004,2024-10-25,Mata Atlantica,Chaunus ictericus,2,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S015,2024-08-16,Mata Atlantica,Chaunus ictericus,12,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S020,2024-03-08,Mata Atlantica,Boana faber,7,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S017,2024-05-10,Mata Atlantica,Rhinella crucifer,1,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S007,2024-03-22,Mata Atlantica,Rhinella crucifer,7,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S015,2024-11-29,Mata Atlantica,Chaunus ictericus,4,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S005,2024-07-12,Mata Atlantica,Rhinella crucifer,3,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S014,2024-05-10,Mata Atlantica,Boana faber,1,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S015,2024-06-28,Mata Atlantica,Boana faber,10,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S015,2024-05-31,Mata Atlantica,Boana faber,1,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S016,2024-03-15,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S019,2024-09-06,Mata Atlantica,Leptodactylus latrans,3,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S008,2024-03-15,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S005,2025-01-10,Mata Atlantica,Boana faber,2,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S007,2024-09-06,Mata Atlantica,Rhinella crucifer,2,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S020,2024-09-13,Mata Atlantica,Rhinella crucifer,0,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S016,2024-11-22,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S016,2024-08-02,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S009,2024-06-07,Mata Atlantica,Chaunus ictericus,2,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S011,2024-08-02,Mata Atlantica,Leptodactylus latrans,6,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S011,2024-08-09,Mata Atlantica,Chaunus ictericus,1,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S019,2024-11-29,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2024-10-11,Mata Atlantica,Boana faber,8,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S002,2024-11-08,Mata Atlantica,Rhinella crucifer,4,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S006,2024-09-13,Mata Atlantica,Chaunus ictericus,8,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S020,2025-01-31,Mata Atlantica,Boana faber,3,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S014,2024-04-05,Mata Atlantica,Boana faber,3,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S014,2024-08-16,Mata Atlantica,Chaunus ictericus,4,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S006,2024-12-13,Mata Atlantica,Boana faber,7,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S018,2024-08-23,Mata Atlantica,Rhinella crucifer,3,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S002,2024-08-09,Mata Atlantica,Chaunus ictericus,10,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S008,2024-12-27,Mata Atlantica,Boana faber,1,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S011,2024-10-04,Mata Atlantica,Leptodactylus latrans,4,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S007,2024-04-19,Mata Atlantica,Boana faber,2,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S019,2024-06-14,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S008,2024-11-22,Mata Atlantica,Leptodactylus latrans,7,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S010,2024-10-04,Mata Atlantica,Boana faber,6,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S005,2024-11-22,Mata Atlantica,Boana faber,2,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S017,2024-03-01,Mata Atlantica,Boana faber,1,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S006,2024-09-20,Mata Atlantica,Chaunus ictericus,4,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S008,2024-08-16,Mata Atlantica,Leptodactylus latrans,3,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S020,2024-12-20,Mata Atlantica,Chaunus ictericus,7,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S006,2024-03-15,Mata Atlantica,Leptodactylus latrans,8,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S015,2024-07-26,Mata Atlantica,Boana faber,0,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S017,2024-06-21,Mata Atlantica,Boana faber,1,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S003,2024-07-12,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S015,2024-10-25,Mata Atlantica,Boana faber,3,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S020,2024-05-31,Mata Atlantica,Boana faber,2,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S001,2024-11-08,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S005,2025-02-07,Mata Atlantica,Boana faber,5,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S011,2024-08-09,Mata Atlantica,Leptodactylus latrans,4,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S015,2024-09-20,Mata Atlantica,Leptodactylus latrans,5,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S020,2024-04-19,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S002,2024-07-12,Mata Atlantica,Leptodactylus latrans,8,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S016,2024-05-03,Mata Atlantica,Chaunus ictericus,5,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S019,2024-07-26,Mata Atlantica,Chaunus ictericus,2,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S010,2025-02-07,Mata Atlantica,Boana faber,3,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S019,2024-06-21,Mata Atlantica,Boana faber,0,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S017,2024-04-26,Mata Atlantica,Chaunus ictericus,3,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S007,2024-10-25,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S006,2024-11-08,Mata Atlantica,Leptodactylus latrans,3,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S012,2024-07-19,Mata Atlantica,Leptodactylus latrans,4,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S004,2024-06-14,Mata Atlantica,Chaunus ictericus,1,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S019,2025-02-21,Mata Atlantica,Boana faber,1,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S002,2024-08-23,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S004,2024-10-25,Mata Atlantica,Chaunus ictericus,1,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S011,2024-10-25,Mata Atlantica,Boana faber,2,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S001,2024-08-23,Mata Atlantica,Rhinella crucifer,7,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S019,2024-05-24,Mata Atlantica,Boana faber,3,Itacaré,BA,-14.8636379847303,-38.2099092816934,108.8,Mata Secundária
+S018,2024-11-01,Mata Atlantica,Rhinella crucifer,1,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S016,2025-01-17,Mata Atlantica,Boana faber,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S003,2024-08-16,Mata Atlantica,Chaunus ictericus,11,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S001,2024-09-06,Mata Atlantica,Boana faber,5,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S002,2025-02-14,Mata Atlantica,Boana faber,3,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S002,2024-09-13,Mata Atlantica,Chaunus ictericus,4,Itacaré,BA,-14.1143931876868,-39.170907328371,33,Mata Secundária
+S008,2024-05-24,Mata Atlantica,Rhinella crucifer,8,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S020,2024-12-27,Mata Atlantica,Leptodactylus latrans,3,Itacaré,BA,-15.0367484292947,-39.2510744482279,37.8,Floresta
+S014,2024-07-19,Mata Atlantica,Boana faber,1,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S013,2024-08-16,Mata Atlantica,Chaunus ictericus,2,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S007,2024-09-13,Mata Atlantica,Boana faber,3,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S008,2024-07-12,Mata Atlantica,Leptodactylus latrans,7,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S003,2024-09-13,Mata Atlantica,Rhinella crucifer,2,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S016,2024-05-24,Mata Atlantica,Chaunus ictericus,3,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
+S001,2024-05-24,Mata Atlantica,Boana faber,4,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S012,2024-10-25,Mata Atlantica,Rhinella crucifer,4,Una,BA,-13.6954019097611,-39.1155998515896,190.6,Mata Secundária
+S018,2025-02-21,Mata Atlantica,Leptodactylus latrans,5,Ilhéus,BA,-15.0671841283329,-38.4933842713945,185.8,Floresta
+S014,2024-03-29,Mata Atlantica,Boana faber,6,Ilhéus,BA,-13.9090651646256,-39.7562014800496,5.2,Floresta
+S008,2024-05-24,Mata Atlantica,Boana faber,0,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S005,2024-08-02,Mata Atlantica,Leptodactylus latrans,4,Itacaré,BA,-14.1885884017684,-39.6951105045155,245.3,Mata Secundária
+S017,2024-09-06,Mata Atlantica,Chaunus ictericus,3,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S011,2024-12-27,Mata Atlantica,Boana faber,1,Uruçuca,BA,-13.5739515349269,-39.9083376666531,227.6,Floresta
+S004,2024-04-19,Mata Atlantica,Chaunus ictericus,8,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S013,2024-11-15,Mata Atlantica,Leptodactylus latrans,3,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S008,2024-08-09,Mata Atlantica,Rhinella crucifer,10,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S015,2024-06-14,Mata Atlantica,Rhinella crucifer,5,Una,BA,-15.4507726309821,-38.878104032483,145.2,Mata Secundária
+S004,2024-05-10,Mata Atlantica,Chaunus ictericus,1,Una,BA,-13.5114604467526,-39.2623090981506,85.9,Mata Secundária
+S013,2024-08-02,Mata Atlantica,Rhinella crucifer,6,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S003,2024-09-20,Mata Atlantica,Rhinella crucifer,1,Itacaré,BA,-14.2189863724634,-39.1725513474084,118.3,Cabruca
+S007,2024-10-04,Mata Atlantica,Rhinella crucifer,1,Una,BA,-14.4118679505773,-39.5339318010956,244,Cabruca
+S001,2024-08-30,Mata Atlantica,Leptodactylus latrans,2,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S006,2024-12-27,Mata Atlantica,Chaunus ictericus,8,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S013,2025-01-24,Mata Atlantica,Chaunus ictericus,3,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S017,2024-06-07,Mata Atlantica,Rhinella crucifer,5,Uruçuca,BA,-13.9830809249543,-39.7449366995133,117,Cabruca
+S006,2024-03-01,Mata Atlantica,Boana faber,1,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S010,2024-12-27,Mata Atlantica,Leptodactylus latrans,6,Ilhéus,BA,-15.2057727053761,-38.2843445693143,134.8,Mata Secundária
+S013,2024-05-03,Mata Atlantica,Rhinella crucifer,2,Una,BA,-14.1185894431546,-38.4021503087133,214.5,Floresta
+S006,2024-07-26,Mata Atlantica,Rhinella crucifer,3,Una,BA,-14.0829390636645,-39.722387873102,137.3,Cabruca
+S009,2024-12-13,Mata Atlantica,Rhinella crucifer,5,Itacaré,BA,-14.9216805254109,-39.4680547192693,239.3,Mata Secundária
+S008,2024-11-01,Mata Atlantica,Leptodactylus latrans,3,Una,BA,-14.3117159591056,-39.0680750994943,244.7,Floresta
+S001,2024-12-06,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-13.7209213678725,-39.7143999552354,201.2,Mata Secundária
+S016,2024-08-16,Mata Atlantica,Leptodactylus latrans,1,Itacaré,BA,-14.5444080578163,-39.5869372207671,69.9,Cabruca
